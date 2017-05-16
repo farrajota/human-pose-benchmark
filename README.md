@@ -78,7 +78,7 @@ Results of the algorithms are shown bellow.
 
 | | | |
 | --- | --- | --- | 
-| ![legends](plots/FLIC-pck-total-legend-OC.png =50x) | ![hip](plots/FLIC-pck-hip-OC.png "Hip") | |
+| ![legends](plots/FLIC-pck-total-legend-OC.png "Legends") | ![hip](plots/FLIC-pck-hip-OC.png "Hip") | |
 | ![wrist](plots/FLIC-pck-wrist-OC.png "Wrist") | ![elbow](plots/FLIC-pck-elbow-OC.png "Elbow")  | ![shoulder](plots/FLIC-pck-shoulder-OC.png "Shoulder") |
 
 

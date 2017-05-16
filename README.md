@@ -87,7 +87,7 @@ Results of the algorithms are shown bellow.
 #### PCP(0.5) - Person Centric
 
 | Method | Torso | Upper leg | Lower leg | Upper arm | Forearm | Head | PCP |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Wang et al., CVPR'13  | 87.5 | 56.0 | 55.8 | 43.1 | 32.1 | 79.1 | 54.1 |
 | Pishchulin et al., ICCV' 13  | 88.7 | 63.6 | 58.4 | 46.0 | 35.2 | 85.1 | 58.0 |
 | Tompson et al., NIPS'14  | 90.3 | 70.4 | 61.1 | 63.0 | 51.2 | 83.7 | 66.6 |

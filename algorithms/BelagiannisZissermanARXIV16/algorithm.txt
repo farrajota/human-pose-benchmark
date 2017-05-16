@@ -1,0 +1,4 @@
+Belagiannis et al., arXiv'16
+Paper: https://arxiv.org/pdf/1605.02914.pdf
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/belagiannis16arxiv/pred_sticks_lsp_pc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/belagiannis16arxiv/pred_keypoints_lsp_pc.mat

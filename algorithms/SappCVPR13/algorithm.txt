@@ -1,0 +1,5 @@
+Sapp et al., CVPR'13
+Paper: http://homes.cs.washington.edu/~taskar/pubs/modec_cvpr13.pdf
+Source: https://github.com/bensapp/MODEC/blob/master/results_paper.mat
+
+Code: https://github.com/bensapp/MODEC

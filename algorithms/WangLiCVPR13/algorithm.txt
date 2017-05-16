@@ -1,0 +1,4 @@
+Wang et al., CVPR'13
+Paper: http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Wang_Beyond_Physical_Connections_2013_CVPR_paper.pdf
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/wang13cvpr/pred_sticks_lsp_pc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/wang13cvpr/pred_keypoints_lsp_pc.mat

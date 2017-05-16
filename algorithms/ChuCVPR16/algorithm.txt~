@@ -1,0 +1,6 @@
+Chu et al., CVPR'16
+Paper: https://arxiv.org/abs/1603.09065
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/chu16cvpr/pred_sticks_lsp_oc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/chu16cvpr/pred_keypoints_lsp_oc.mat
+
+Code: http://www.ee.cuhk.edu.hk/~xgwang/projectpage_structured_feature_pose.html

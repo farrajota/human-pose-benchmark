@@ -1,0 +1,4 @@
+Tompson et al., NIPS'14
+Paper: http://www.cims.nyu.edu/~tompson/others/joint-training-convolutional.pdf
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/tompson14nips/pred_sticks_lsp_pc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/tompson14nips/pred_keypoints_lsp_pc.mat

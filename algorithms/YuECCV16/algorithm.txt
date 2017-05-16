@@ -1,0 +1,4 @@
+Yu et al., ECCV'16
+Paper: http://arxiv.org/pdf/1605.01014v1.pdf
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/yu16arxiv/pred_sticks_lsp_pc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/yu16arxiv/pred_keypoints_lsp_pc.mat

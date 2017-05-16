@@ -1,0 +1,6 @@
+Rafi et al., BMVC'16
+Paper: http://www.spencer.eu/papers/rafiBMVC16.pdf
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/rafi16/pred_sticks_lsp_pc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/rafi16/pred_keypoints_lsp_pc.mat
+
+Code: https://www.vision.rwth-aachen.de/software/pose-cnn

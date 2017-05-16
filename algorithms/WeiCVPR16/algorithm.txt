@@ -1,0 +1,4 @@
+Wei et al., CVPR'16
+Paper: http://arxiv.org/pdf/1602.00134v3.pdf
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/wei16cvpr/pred_keypoints_lsp_pc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/wei16cvpr/pred_keypoints_lsp_pc.mat

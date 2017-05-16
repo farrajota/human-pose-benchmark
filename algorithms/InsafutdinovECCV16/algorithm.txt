@@ -1,0 +1,6 @@
+Insafutdinov et al., ECCV'16
+Paper: https://arxiv.org/abs/1605.03170
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/insafutdinov16arxiv/pred_keypoints_lsp_pc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/insafutdinov16arxiv/pred_keypoints_lsp_pc.mat
+
+Code: http://pose.mpi-inf.mpg.de/

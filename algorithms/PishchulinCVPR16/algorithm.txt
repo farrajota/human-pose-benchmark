@@ -1,0 +1,7 @@
+Pishchulin et al., CVPR'16
+Paper: http://arxiv.org/pdf/1511.06645v2.pdf
+Source: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/pishchulin15arxiv/pred_sticks_lsp_oc.mat
+Source2: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/pishchulin15arxiv/pred_sticks_lsp_pc.mat
+Source3: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/pishchulin15arxiv/pred_keypoints_lsp_oc.mat
+Source4: http://human-pose.mpi-inf.mpg.de/results/lsp/pred/pishchulin15arxiv/pred_keypoints_lsp_pc.mat
+

@@ -1,0 +1,3 @@
+Newell et al., arXiv'16
+Paper: https://arxiv.org/abs/1603.06937
+Source: http://www-personal.umich.edu/~alnewell/pose/
